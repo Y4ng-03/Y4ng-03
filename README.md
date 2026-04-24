@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Jean Guerrero✋
 
-<!--
-**Y4ng-03/Y4ng-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Desarrollador Full Stack apasionado por crear soluciones digitales eficientes y escalables. Actualmente me enfoco en el desarrollo web y móvil, combinando lógica sólida en el backend con interfaces de usuario intuitivasr
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📍 Sobre mí
+Edad: 21 años.
+
+Ubicación: Los Teques, Miranda, Venezuela 🇻🇪.
+
+Educación: TSU en Informática (cursando Ingeniería en la UPTAMCA).
+
+Enfoque actual: Construyendo aplicaciones robustas con el stack TALL (Tailwind, Alpine, Laravel, Livewire) y React.
+
+🛠️ Tecnologías & Habilidades
+Frontend,"JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS"
+Backend,"PHP (Laravel), Node.js"
+Móvil,Flutter
+Bases de Datos,"PostgreSQL, MySQL"
+Herramientas,"Git, Docker, Odoo (Integraciones)"
+
+
+🌐 Idiomas
+Español: Nativo.
+
+
+#Estadisticas 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y4ng-03&theme=highcontrast&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y4ng-03)](https://github.com/Y4ng-03/github-readme-stats)
