@@ -28,5 +28,3 @@ Español: Nativo.
 #Estadisticas 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y4ng-03&theme=highcontrast&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y4ng-03)](https://github.com/Y4ng-03/github-readme-stats)
